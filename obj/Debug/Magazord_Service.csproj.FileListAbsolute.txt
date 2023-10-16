@@ -1,0 +1,13 @@
+D:\Freela\Magazord_Service\bin\Debug\Magazord_Service.exe.config
+D:\Freela\Magazord_Service\bin\Debug\Magazord_Service.exe
+D:\Freela\Magazord_Service\bin\Debug\Magazord_Service.pdb
+D:\Freela\Magazord_Service\bin\Debug\Newtonsoft.Json.dll
+D:\Freela\Magazord_Service\bin\Debug\Newtonsoft.Json.xml
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.ProjectInstaller.resources
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.csproj.GenerateResource.cache
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.csproj.CoreCompileInputs.cache
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.csproj.CopyComplete
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.exe
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.pdb
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.Service1.resources
+D:\Freela\Magazord_Service\obj\Debug\Magazord_Service.csproj.AssemblyReference.cache
